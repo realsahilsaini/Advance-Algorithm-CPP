@@ -1,3 +1,3 @@
 # Advance Algorithm in C++
 
-### Repository Mumbai University's Advance Algorithm subject.
+### Repository for Mumbai University's Advance Algorithm subject.
